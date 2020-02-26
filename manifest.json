@@ -1,0 +1,39 @@
+{
+  "name": "#Rocket AV",
+  "short_name": "#Rocket AV",
+  "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
+  "background_color": "#997475",
+  "theme_color": "#6fbfc8",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/rocketlogo512.png",
+      "sizes": "513x513",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/rocketlogo256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/rocketlogo128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/rocketlogo64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
